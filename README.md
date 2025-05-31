@@ -1,5 +1,5 @@
 # Coffee Sales Machine Learning Analysis
-## Big Data Analytics Assignment 4
+
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-green)](https://fastapi.tiangolo.com/)
@@ -56,8 +56,8 @@ BDA_Assignment_4/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd BDA_Assignment_4
+   git clone "https://github.com/ranazaeem-1/coffee-sales-ml-analysis.git"
+   cd coffee-sales-ml-analysis
    ```
 
 2. **Create virtual environment**
@@ -156,8 +156,8 @@ uvicorn backend.main:app --reload
 
 ### Docker Deployment
 ```bash
-docker build -t coffee-ml-analysis .
-docker run -p 8000:8000 coffee-ml-analysis
+docker build -t coffee-sales-ml-analysis .
+docker run -p 8000:8000 coffee-sales-ml-analysis
 ```
 
 ## 📊 Results & Visualizations
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or collaboration opportunities, please reach out through:
 - GitHub Issues
-- Email: [your-email@domain.com]
+- Email: [zaeemrana168@gmail.com]
 
 ## 🙏 Acknowledgments
 
@@ -213,4 +213,4 @@ For questions or collaboration opportunities, please reach out through:
 
 ---
 
-**Note**: This is an academic project for Big Data Analytics Assignment 4. The dataset and analysis are for educational purposes.
+**Note**: This is an academic project. The dataset and analysis are for educational purposes.
