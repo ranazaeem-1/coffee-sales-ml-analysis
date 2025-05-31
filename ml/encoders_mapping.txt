@@ -1,0 +1,20 @@
+=== LABEL ENCODER MAPPINGS ===
+
+City Encoder:
+  0: Abha
+  1: Buraidah
+  2: Dammam
+  3: Hail
+  4: Jeddah
+  5: Khobar
+  6: Mecca
+  7: Medina
+  8: Riyadh
+  9: Tabuk
+
+Product Encoder:
+  0: Brazilian
+  1: Colombian
+  2: Costa Rica
+  3: Ethiopian
+  4: Guatemala

@@ -1,0 +1,24 @@
+=== FINAL MODEL CONFIGURATION ===
+
+Model Type: RandomForestRegressor
+Features Used: 10
+Feature List: Unit Price, Quantity, Month, Day, DayOfWeek, IsWeekend, City_Encoded, Product_Encoded, Used_Discount_Encoded, Discount_Rate
+
+=== PERFORMANCE METRICS ===
+Test R² Score: 0.996576
+Test RMSE: 31.23
+Test MAE: 21.31
+MAPE: 4.40%
+CV R² Mean: 0.995713 ± 0.000993
+
+=== FEATURE IMPORTANCE ===
+Quantity: 0.898193 (89.82%)
+Unit Price: 0.053404 (5.34%)
+Used_Discount_Encoded: 0.021299 (2.13%)
+Discount_Rate: 0.018135 (1.81%)
+Product_Encoded: 0.006205 (0.62%)
+Day: 0.000842 (0.08%)
+City_Encoded: 0.000773 (0.08%)
+Month: 0.000641 (0.06%)
+DayOfWeek: 0.000474 (0.05%)
+IsWeekend: 0.000035 (0.00%)

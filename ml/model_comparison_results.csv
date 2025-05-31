@@ -1,0 +1,5 @@
+Model,Features,R² Score,RMSE,MAE,MAPE,CV Mean,CV Std
+10_Features_All,10,0.9966,31.23,21.31,4.40%,0.9957,0.0010
+7_Features_Top_F_Score,7,0.9969,29.52,19.86,4.11%,0.9963,0.0009
+5_Features_Core,5,0.9974,26.95,16.92,3.46%,0.9972,0.0007
+3_Features_Minimal,3,0.9975,26.75,16.61,3.25%,0.9973,0.0007
